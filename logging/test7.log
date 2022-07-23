@@ -1,0 +1,11 @@
+
+2022-07-13 12:50:24,331 INFO root here initiating the file open operation
+2022-07-13 12:50:24,331 WARNING root file operation is completed
+2022-07-13 12:50:46,189 INFO root here initiating the file open operation
+2022-07-13 12:50:46,189 ERROR root no such file exist and logging details is from Error
+2022-07-13 12:50:46,189 CRITICAL root [Errno 2] No such file or directory: 'jkl1.txt'
+2022-07-13 12:50:46,189 WARNING root file operation is completed
+2022-07-13 12:51:54,371 INFO root here initiating the file open operation
+2022-07-13 12:51:54,371 ERROR root no such file exist and logging details is from Error
+2022-07-13 12:51:54,371 CRITICAL root [Errno 2] No such file or directory: 'jkl1.txt'
+2022-07-13 12:51:54,371 WARNING root file operation is completed

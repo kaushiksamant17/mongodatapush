@@ -1,0 +1,16 @@
+2022-07-12 12:37:48,942 INFO the number entered by user is 4 and 0
+2022-07-12 12:37:48,942 INFO we are in function
+2022-07-12 12:37:48,942 ERROR division by zero
+2022-07-12 12:38:28,081 INFO the number entered by user is 4 and 0
+2022-07-12 12:38:28,081 INFO we are in function
+2022-07-12 12:38:28,081 ERROR division by zero
+2022-07-12 12:38:28,081 INFO the number entered by user is 8 and 2
+2022-07-12 12:38:28,081 INFO we are in function
+2022-07-12 12:38:28,081 INFO we have completed division
+2022-07-12 12:39:33,259 INFO the number entered by user is 4 and 0
+2022-07-12 12:39:33,259 INFO we are in function
+2022-07-12 12:39:33,259 ERROR division by zero
+2022-07-12 12:39:33,259 INFO the number entered by user is 8 and 2
+2022-07-12 12:39:33,259 INFO we are in function
+2022-07-12 12:39:33,259 INFO we have completed division
+2022-07-12 12:39:33,259 INFO the value of division is 4.0

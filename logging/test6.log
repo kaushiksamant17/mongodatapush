@@ -1,0 +1,42 @@
+
+2022-07-12 13:10:40,001 INFO root we are try to open file
+2022-07-12 13:10:40,001 ERROR root [Errno 2] No such file or directory: 'xyz.txt'
+2022-07-12 13:10:40,001 CRITICAL root new file can't be created in read mode
+2022-07-12 13:10:40,001 INFO root writing operation done
+2022-07-12 13:10:40,002 INFO root file operation closed
+2022-07-12 13:12:11,207 INFO root we are try to open file
+2022-07-12 13:12:11,207 ERROR root [Errno 2] No such file or directory: 'xyz.txt'
+2022-07-12 13:12:11,207 CRITICAL root new file can't be created in read mode
+2022-07-12 13:12:11,208 INFO root writing operation done
+2022-07-12 13:12:11,208 INFO root file operation closed
+2022-07-12 13:12:24,262 INFO root we are try to open file
+2022-07-12 13:12:24,262 ERROR root [Errno 2] No such file or directory: 'xyz.txt'
+2022-07-12 13:12:24,263 CRITICAL root new file can't be created in read mode
+2022-07-12 13:12:24,263 INFO root writing operation done
+2022-07-12 13:12:24,263 INFO root file operation closed
+2022-07-12 13:13:20,085 INFO root we are try to open file
+2022-07-12 13:13:20,085 ERROR root [Errno 2] No such file or directory: 'xyz.txt'
+2022-07-12 13:13:20,085 CRITICAL root new file can't be created in read mode
+2022-07-12 13:14:31,346 INFO root we are try to open file
+2022-07-12 13:14:31,346 ERROR root [Errno 2] No such file or directory: 'xyz.txt'
+2022-07-12 13:14:31,346 CRITICAL root new file can't be created in read mode
+2022-07-12 13:14:31,346 INFO root writing operation done
+2022-07-12 13:14:31,347 INFO root file operation closed
+2022-07-12 13:14:59,025 INFO root we are try to open file
+2022-07-12 13:14:59,026 ERROR root [Errno 2] No such file or directory: 'xyz.txt'
+2022-07-12 13:14:59,026 CRITICAL root new file can't be created in read mode
+2022-07-12 13:14:59,026 INFO root writing operation done
+2022-07-12 13:14:59,026 INFO root file operation closed
+2022-07-12 13:15:25,976 INFO root we are try to open file
+2022-07-12 13:15:25,976 ERROR root [Errno 2] No such file or directory: 'xyz.txt'
+2022-07-12 13:15:25,976 CRITICAL root new file can't be created in read mode
+2022-07-12 13:16:40,143 INFO root we are try to open file
+2022-07-12 13:16:40,143 ERROR root [Errno 2] No such file or directory: 'xyz.txt'
+2022-07-12 13:16:40,143 CRITICAL root new file can't be created in read mode
+2022-07-12 13:16:40,143 INFO root writing operation done
+2022-07-12 13:16:40,144 INFO root file operation closed
+2022-07-12 13:16:53,438 INFO root we are try to open file
+2022-07-12 13:16:53,438 ERROR root [Errno 2] No such file or directory: 'xyz.txt'
+2022-07-12 13:16:53,438 CRITICAL root new file can't be created in read mode
+2022-07-12 13:16:53,438 INFO root writing operation done
+2022-07-12 13:16:53,439 INFO root file operation closed

@@ -1,0 +1,6 @@
+2022-07-12 12:51:11,055 root INFO i am trying to read a file
+2022-07-12 12:51:11,055 root ERROR name 'r' is not defined
+2022-07-12 12:51:11,055 root CRITICAL the mode of operation is read and no such file eixist
+2022-07-12 12:51:34,811 root INFO i am trying to read a file
+2022-07-12 12:51:34,811 root ERROR [Errno 2] No such file or directory: 'abc.txt'
+2022-07-12 12:51:34,812 root CRITICAL the mode of operation is read and no such file eixist
